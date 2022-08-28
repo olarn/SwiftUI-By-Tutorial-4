@@ -11,6 +11,7 @@
 		37002D7D28BB01200085285F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37002D7C28BB01200085285F /* ContentView.swift */; };
 		37002D7F28BB01240085285F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37002D7E28BB01240085285F /* Assets.xcassets */; };
 		37002D8228BB01240085285F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37002D8128BB01240085285F /* Preview Assets.xcassets */; };
+		37002D8928BB031D0085285F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37002D8828BB031D0085285F /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		37002D7C28BB01200085285F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		37002D7E28BB01240085285F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37002D8128BB01240085285F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		37002D8828BB031D0085285F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +53,11 @@
 		37002D7928BB01200085285F /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				37002D7A28BB01200085285F /* LandmarksApp.swift */,
-				37002D7C28BB01200085285F /* ContentView.swift */,
 				37002D7E28BB01240085285F /* Assets.xcassets */,
 				37002D8028BB01240085285F /* Preview Content */,
+				37002D7A28BB01200085285F /* LandmarksApp.swift */,
+				37002D7C28BB01200085285F /* ContentView.swift */,
+				37002D8828BB031D0085285F /* CircleImage.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				37002D7D28BB01200085285F /* ContentView.swift in Sources */,
 				37002D7B28BB01200085285F /* LandmarksApp.swift in Sources */,
+				37002D8928BB031D0085285F /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
