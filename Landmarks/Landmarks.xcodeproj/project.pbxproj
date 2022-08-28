@@ -55,9 +55,9 @@
 		37002D7928BB01200085285F /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				37002D7A28BB01200085285F /* LandmarksApp.swift */,
 				37002D7E28BB01240085285F /* Assets.xcassets */,
 				37002D8028BB01240085285F /* Preview Content */,
-				37002D7A28BB01200085285F /* LandmarksApp.swift */,
 				37002D7C28BB01200085285F /* ContentView.swift */,
 				37002D8828BB031D0085285F /* CircleImage.swift */,
 				37002D8A28BB04430085285F /* MapView.swift */,
